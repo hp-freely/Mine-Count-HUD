@@ -1,3 +1,7 @@
+Download Instructions:
+1. Click "MineCountHud.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
 # Mine Count HUD
 Creates a free HUD showing your current mine count. 
 
